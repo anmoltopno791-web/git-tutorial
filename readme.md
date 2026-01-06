@@ -12,4 +12,4 @@ Thank you!
 
 ## Sumary
 
-This is a end of repo
+This is a end of repository
